@@ -5,11 +5,9 @@ Searching for MobileNetV3
 arXiv preprint arXiv:1905.02244.
 """
 
+import torch
 import torch.nn as nn
 import math
-import torch
-import torch
-import torch
 
 
 __all__ = ['mobilenetv3_large', 'mobilenetv3_small']
