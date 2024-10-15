@@ -10,7 +10,7 @@
 
 ### ViT series
 - 2020  [ViT]()
-  <div align="center">
+  <div align="left">
   <img src="https://github.com/lucidrains/vit-pytorch/raw/main/images/vit.gif" width="60%"/>
   </div>
 - 2021  [MobileViTv1](https://github.com/tip2tip/vision-models/blob/main/MobileViTv1.py)
